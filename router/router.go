@@ -8,6 +8,7 @@ import (
 func Initializer() {
 
 	//initialize Router
+
 	router := gin.Default()
 
 	//initializer routes
